@@ -18,7 +18,7 @@ public class ExtentReportVersion2 {
 	ExtentReports report;
 	ExtentTest logger;
 	WebDriver driver;
-	static String Path =  "C:\\Users\\mjain\\eclipse\\eclipse\\workplace1\\ChalkBracket\\src\\chromedriver.exe";
+	static String Path =  "C:\\Users\\mjain\\eclipse\\eclipse\\workplace1\\AdvanceReportByUsingXSLT\\ChromePath\\chromedriver.exe";
 	
 	
 	@Test
