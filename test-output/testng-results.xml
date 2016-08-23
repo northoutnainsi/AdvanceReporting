@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="31121" started-at="2016-08-23T07:42:00Z" finished-at="2016-08-23T07:42:31Z">
+  <suite name="Default suite" duration-ms="28105" started-at="2016-08-23T11:29:07Z" finished-at="2016-08-23T11:29:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="31121" started-at="2016-08-23T07:42:00Z" finished-at="2016-08-23T07:42:31Z">
+    <test name="Default test" duration-ms="28105" started-at="2016-08-23T11:29:07Z" finished-at="2016-08-23T11:29:35Z">
       <class name="library.ExtentReportVersion2">
-        <test-method status="FAIL" signature="verifyBlogTitle()[pri:0, instance:library.ExtentReportVersion2@4c70fda8]" name="verifyBlogTitle" duration-ms="12501" started-at="2016-08-23T13:12:00Z" finished-at="2016-08-23T13:12:13Z">
+        <test-method status="FAIL" signature="verifyBlogTitle()[pri:0, instance:library.ExtentReportVersion2@4c70fda8]" name="verifyBlogTitle" duration-ms="14081" started-at="2016-08-23T16:59:07Z" finished-at="2016-08-23T16:59:21Z">
           <exception class="java.lang.AssertionError">
             <full-stacktrace>
               <![CDATA[java.lang.AssertionError
@@ -45,7 +45,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyBlogTitle -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:library.ExtentReportVersion2@4c70fda8]" name="tearDown" is-config="true" duration-ms="18589" started-at="2016-08-23T13:12:13Z" finished-at="2016-08-23T13:12:31Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:library.ExtentReportVersion2@4c70fda8]" name="tearDown" is-config="true" duration-ms="13989" started-at="2016-08-23T16:59:21Z" finished-at="2016-08-23T16:59:35Z">
           <params>
             <param index="0">
               <value>
